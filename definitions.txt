@@ -1,0 +1,26 @@
+OOP: OOP is a programming pattern that organizes code into objects, each representing an entity with attributes (data) and methods (functions). It helps make your code more modular, reusable, and easier to maintain.
+
+
+Key Concepts of OOP:
+
+Class: A blueprint for creating objects. It defines the structure (attributes) and behavior (methods) of the objects.
+
+Object: An instance of a class. It can hold data and interact with other objects or methods.
+
+Attributes: Variables that hold data for an object.
+
+Methods: Functions defined within a class that describe the behavior of the objects.
+
+Encapsulation: Wrapping the data (attributes) and methods that work on the data into a single unit (class), and restricting access to some of the object's components.
+
+Inheritance: A way to form new classes using classes that have already been defined. It helps reuse code.
+
+Polymorphism: Allows objects to be treated as instances of their parent class, even when they're part of a child class.
+
+Polymorphism: Allows objects to be treated as instances of their parent class, even when they're part of a child class.
+
+Abstraction: Hiding the implementation details from the user, exposing only the essential parts.
+
+Method Overriding (Runtime Polymorphism): When a child class provides a specific implementation of a method that is already defined in its parent class.
+
+Method Overloading (Compile-Time Polymorphism): Python doesn't support method overloading directly, but it can be simulated using default or variable-length arguments.
